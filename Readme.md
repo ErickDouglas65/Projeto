@@ -1,0 +1,1 @@
+Este projeto tem como objetivo criar meu currículo para eu aprender sobre HTML e PHP que estou estudando na faculdade.
