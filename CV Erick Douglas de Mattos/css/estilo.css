@@ -1,0 +1,31 @@
+body{
+	font-family: Tahoma;
+	font-size: 14px;
+	color: #000000;
+}
+ 
+.menu{
+	font-size: 12px;
+	background-color: #00BFFF;
+	padding: 2px;
+}
+
+.menu-item{
+	padding: 5px;
+	display: inline;
+}
+
+.menu-item a{
+	color: #ecf0f1;
+	text-decoration: none;
+}
+
+.menu-item a:hover{
+	text-decoration: underline;
+}
+
+.menu-link{
+    color: #0984e3;
+    text-decoration: none;
+}
+
